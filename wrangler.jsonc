@@ -1,0 +1,7 @@
+{
+  // Cloudflare settings for thetutorlyfe.com (Worker "square-feather-ec59").
+  // The site is plain files: index.html plus the img folder. No build step.
+  "name": "square-feather-ec59",
+  "compatibility_date": "2026-11-01",
+  "assets": { "directory": "." }
+}
